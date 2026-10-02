@@ -1,0 +1,4 @@
+pymupdf==1.28.2
+xlsxwriter==3.2.9
+pillow==12.3.0
+tkinterdnd2==0.6.3
